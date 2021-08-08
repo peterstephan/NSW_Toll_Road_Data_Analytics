@@ -1,6 +1,6 @@
 # NSW Toll Road Data Analytics
 
-This notebook has been developed to analyse traffic volume and travel pattern data from the NSW Toll Road Data website - see: https://nswtollroaddata.com/
+This series of notebooks have been developed to analyse traffic volume and travel pattern data from the NSW Toll Road Data website - see: https://nswtollroaddata.com/
 
 The datasets on this website contain traffic data for the following toll roads in Sydney, New South Wales, Australia that are wholly or partly owned by Transurban:
 - Cross City Tunnel ("CCT")
