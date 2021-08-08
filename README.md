@@ -2,7 +2,7 @@
 
 This series of notebooks have been developed to analyse traffic volume and travel pattern data from the NSW Toll Road Data website - see: https://nswtollroaddata.com/
 
-The datasets on this website contain traffic data for the following toll roads in Sydney, New South Wales, Australia that are wholly or partly owned by Transurban:
+The datasets on the NSW Toll Road Data website contain traffic data for the following toll roads in Sydney, New South Wales, Australia that are wholly or partly owned by Transurban:
 - Cross City Tunnel ("CCT")
 - Hills M2 ("M2")
 - Lane Cove Tunnel / Military Road E-Ramp ("LCT")
