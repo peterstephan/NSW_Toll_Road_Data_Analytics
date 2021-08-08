@@ -1,0 +1,4 @@
+Inputs/*.zip
+Inputs/*.csv
+Outputs/Daily_Trips/*.csv
+.ipynb_checkpoints
